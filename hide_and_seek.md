@@ -8,15 +8,15 @@ Game Hide and Seek Dorothy adalah game dengan tema misteri-horor. Game tersebut 
 
 ## _Game description_
 
-Hide and Seek (Story of Dorothy)
+**Hide and Seek (Story of Dorothy)
 
-RPG, Adventure (Offline games)
+> RPG, Adventure (Offline games)
 
-Horror, Mistery
+> Horror, Mistery
 
-Size download 40MB
+Size download : 40MB
 
-Free games (But you also can buy some items for upgrade the skill, this is optional)
+**Free games** (But you also can buy some items for upgrade the skill, this is optional)
 
 Tabom Soft Developper (Korea)
 
@@ -40,7 +40,14 @@ Karakter utama dari game ini adalah Dorothy, seorang anak perempuan berusia 12 t
 
 ![Image](https://github.com/rhmynt/articles/blob/master/Blood.png)
 
-Awal pada permainan ini, tidak dijelaskan apa yang harus dilakukan dan apa yang terjadi sebelumnya. Mungkin karena ini game horor misteri, jadi banyak hal yang tidak dijelaskan, melainkan ditemukan sendiri. Saya sendiri cukup bingung, karena awal bermain, Sang Karakter (selanjutnya Dorothy) hanya keluar dari sebuah lemari yang berada pada sebuah kamar. Kamar tersebut memiliki benda yang ada pada umumnya, dan ada 2 pintu yang tersedia. Pintu yang ada bercak darahnya akan langsung menuju pada game over (hal ini juga berlaku untuk beberapa benda lainnya). Singkatnya, kita tidak bisa keluar dari bangunan, tapi kita bisa explorasi seisi rumah/mansion saja. Game ini hanya memiliki 5-6 level (saya lupa) yang berdasarkan pada jumlah lantai yang ada pada bangunan tersebut. Untuk pergerakan Dorothy hanya dengan menggunakan kontroler yang ada pada screen. Untuk menginspeksi benda tekan A dan untuk melihat inventori tekan B. Untuk save point, kunjungi jam besar dan inspeksi, lalu pilih save time. Tiap level berisikan teka-teki yang saling bersambungan. Teka-teki yang ada sangatlah bervariasi dan selalu ada petunjuk untuk dilakukan. Kita hanya perlu berpikir secara logika dan runtut untuk menyelesaikannya. Contohya, kita ingin menyiram tanaman, untuk itu kita perlu wadah dan air. Selain itu, kita dituntut untuk teliti. Inspeksi setiap benda yang ada pada ruangan. Premature speculation will lead to death. Itu adalah kutipan sekaligu petunjuk dari game tersebut. Player harus lebih berhati-hati dalam mengambil tindakan. 
+Awal pada permainan ini, tidak dijelaskan apa yang harus dilakukan dan apa yang terjadi sebelumnya. Mungkin karena ini game horor misteri, jadi banyak hal yang tidak dijelaskan, melainkan ditemukan sendiri. Saya sendiri cukup bingung, karena awal bermain, Sang Karakter (selanjutnya Dorothy) hanya keluar dari sebuah lemari yang berada pada sebuah kamar. Kamar tersebut memiliki benda yang ada pada umumnya, dan ada 2 pintu yang tersedia. Pintu yang ada bercak darahnya akan langsung menuju pada game over (hal ini juga berlaku untuk beberapa benda lainnya). Singkatnya, kita tidak bisa keluar dari bangunan, tapi kita bisa explorasi seisi rumah/mansion saja. Game ini hanya memiliki 5-6 level (saya lupa) yang berdasarkan pada jumlah lantai yang ada pada bangunan tersebut. Untuk pergerakan Dorothy hanya dengan menggunakan kontroler yang ada pada screen. Untuk menginspeksi benda tekan A dan untuk melihat inventori tekan B. Untuk save point, kunjungi jam besar dan inspeksi, lalu pilih save time. 
+
+![Image](https://github.com/rhmynt/articles/blob/master/Puzzle.png)
+
+Tiap level berisikan teka-teki yang saling bersambungan. Teka-teki yang ada sangatlah bervariasi dan selalu ada petunjuk untuk dilakukan. Kita hanya perlu berpikir secara logika dan runtut untuk menyelesaikannya. Contohya, kita ingin menyiram tanaman, untuk itu kita perlu wadah dan air. Selain itu, kita dituntut untuk teliti. Inspeksi setiap benda yang ada pada ruangan. **_Premature speculation will lead to death
+_**. Itu adalah kutipan sekaligu petunjuk dari game tersebut. Player harus lebih berhati-hati dalam mengambil tindakan. 
+
+![Image](https://github.com/rhmynt/articles/blob/master/GP2.png)
 
 Hide and seek Dorothy merupakan game yang memiliki grafik 2D. Meskipun begitu, hal tersebut tidak menghalangi player untuk bisa mendapatkan "feel" dari game tersebut. Game ini didukung dengan efek suara yang sangat menunjang. Apalagi anda yang memiliki imajinasi yang sangat kuat. Anda benar-benar bisa merasakan kalau anda adalah tokoh utama yang berada pada tempat tersebut dan berjuang untuk hidup dan mengetahui apa yang sebenarnya terjadi. Bagi anda yang takut terhadap hal-hal mistis tapi penasaran juga, disarankan bermainlah di tempat yang terang dan pada siang hari. Dan, bagi anda yang punya penyakit jantung, lebih disarankan untuk tidak main game ini. Banyak kejutan-kejutan terjadi dan membuat panik. 
 
@@ -52,7 +59,7 @@ Game ini memiliki 3 route ending : Uncomplete ending, Parent Ending, and True En
 
 ## Game lag dan bugs
 
-Sejauh saya bermain, saya tidak menemukan lag. Saat itu saya menggunakan perangkat dengan spesifikasi Android Kit-kat, 1GB RAM, 8 GB ROM, 1.3 GHz Quadcore Processor. Untuk bugs sendiri, hanya ada beberapa dan tidak mengganggu jalannya permainan, dan itu mungkin lebih disebabkan saat terhubung ke internet, seperti butuh waktu untuk load nyawa untuk bermain. Ada beberapa bug juga seperti tidak munculnya dialog saat menginspeksi sesuatu atau ada dialog yang hurufnya terbalik semua, jadi sulit untuk dibaca. Karena game ini asalnya dari Korea, dilakukan alih bahasa untuk pemain luar Korea. Nah, di sana terdapat ada beberapa kesalahan, jadi dapat menimbulkan kesalahan pemahaman.
+Sejauh saya bermain, saya tidak menemukan lag. Saat itu saya menggunakan perangkat dengan spesifikasi Android Kit-kat, 1GB RAM, 8 GB ROM, 1.3 GHz Quadcore Processor. Untuk bugs sendiri, hanya ada beberapa dan tidak mengganggu jalannya permainan, dan itu mungkin lebih disebabkan saat terhubung ke internet, seperti butuh waktu untuk load nyawa untuk bermain. Ada beberapa bug juga seperti tidak munculnya dialog saat menginspeksi sesuatu atau ada dialog yang hurufnya terbalik semua, jadi sulit untuk dibaca. Karena game ini asalnya dari Korea, dilakukan alih bahasa untuk pemain luar Korea. Nah, di sana terdapat ada beberapa kesalahan penerjemahan, jadi dapat menimbulkan kesalahan pemahaman.
 
 ## Kesimpulan dan saran
 
