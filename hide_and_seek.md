@@ -4,19 +4,32 @@
 
 Game Hide and Seek Dorothy adalah game dengan tema misteri-horor. Game tersebut adalah garapan dari Developer Tabom Soft asal Korea, yang kebanyakan game yang diproduksi bertemakan horor, mistis, teka-teki, dan misteri. Hide and Seek Dorothy mendapat rating 12+ pada google play store. Game ini berbasis RPG (Role Playing Game) dengan jenis petualangan. Saya sendiri sudah menamatkan game ini dengan banyak bantuan dari player lain melalui pencarian di Google. Meskipun user interface-nya sangat simple dan mudah sekali digunakan, namun variasi rintangan dari game ini cukup banyak. Pemain perlu memutar otak untuk menyelesaikan tiap levelnya. Para pemain yang telah memainkan game ini banyak yang memberikan ulasan positif.
 
+![Image](https://github.com/rhmynt/articles/blob/master/home.png)
+
 ## _Game description_
 
 Hide and Seek (Story of Dorothy)
+
 RPG, Adventure (Offline games)
-Horror
+
+Horror, Mistery
+
 Size download 40MB
+
 Free games (But you also can buy some items for upgrade the skill, this is optional)
+
 Tabom Soft Developper (Korea)
+
 Rating 12+
+
 2D Graphics (Pixelate)
+
 Platform : Android (Mobile App Games)
+
 First release : 2014
+
 Device specification : There are no specification from the developer
+
 Sequel : Hide and Seek 2 (Story of Demian)
 
 ## Sinopsis singkat cerita dan beberapa karakter di Hide and Seek Dorothy
@@ -24,6 +37,8 @@ Sequel : Hide and Seek 2 (Story of Demian)
 Karakter utama dari game ini adalah Dorothy, seorang anak perempuan berusia 12 tahun dengan menggunakan baju one-piece putih dengan rambut dan mata oranye serta memakai pita hitam di rambutnya dan sepasang glove. Dia menderita lupa ingatan. Saat pertama kali dia bangun, dia berada dalam sebuah lemari dan rumah yang kosong dengan penuh misteri. Dia tidak dapat keluar dari rumah tersebut. Bila dikaitkan dengan 7 deadly sin, maka karakter Dorothy akan mendekati Gluttony. Kemudian ada seorang anak laki-laki bernama Sue. Dia tampak seumuran dengan Dorothy. Saat bermain, anda dapat mengetahui karakter lainnya melalui teka-teki yang dipecahkan ataupun note-note yang ditemukan. Seiring dengan perjalanan permainan, anda juga akan mengetahui apa yang terjadi pada Dorothy. 
 
 ## Gameplay
+
+![Image](https://github.com/rhmynt/articles/blob/master/Blood.png)
 
 Awal pada permainan ini, tidak dijelaskan apa yang harus dilakukan dan apa yang terjadi sebelumnya. Mungkin karena ini game horor misteri, jadi banyak hal yang tidak dijelaskan, melainkan ditemukan sendiri. Saya sendiri cukup bingung, karena awal bermain, Sang Karakter (selanjutnya Dorothy) hanya keluar dari sebuah lemari yang berada pada sebuah kamar. Kamar tersebut memiliki benda yang ada pada umumnya, dan ada 2 pintu yang tersedia. Pintu yang ada bercak darahnya akan langsung menuju pada game over (hal ini juga berlaku untuk beberapa benda lainnya). Singkatnya, kita tidak bisa keluar dari bangunan, tapi kita bisa explorasi seisi rumah/mansion saja. Game ini hanya memiliki 5-6 level (saya lupa) yang berdasarkan pada jumlah lantai yang ada pada bangunan tersebut. Untuk pergerakan Dorothy hanya dengan menggunakan kontroler yang ada pada screen. Untuk menginspeksi benda tekan A dan untuk melihat inventori tekan B. Untuk save point, kunjungi jam besar dan inspeksi, lalu pilih save time. Tiap level berisikan teka-teki yang saling bersambungan. Teka-teki yang ada sangatlah bervariasi dan selalu ada petunjuk untuk dilakukan. Kita hanya perlu berpikir secara logika dan runtut untuk menyelesaikannya. Contohya, kita ingin menyiram tanaman, untuk itu kita perlu wadah dan air. Selain itu, kita dituntut untuk teliti. Inspeksi setiap benda yang ada pada ruangan. Premature speculation will lead to death. Itu adalah kutipan sekaligu petunjuk dari game tersebut. Player harus lebih berhati-hati dalam mengambil tindakan. 
 
