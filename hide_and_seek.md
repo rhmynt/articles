@@ -4,7 +4,7 @@
 
 Game Hide and Seek Dorothy adalah game dengan tema misteri-horor. Game tersebut adalah garapan dari Developer Tabom Soft asal Korea, yang kebanyakan game yang diproduksi bertemakan horor, mistis, teka-teki, dan misteri. Hide and Seek Dorothy mendapat rating 12+ pada google play store. Game ini berbasis RPG (Role Playing Game) dengan jenis petualangan. Saya sendiri sudah menamatkan game ini dengan banyak bantuan dari player lain melalui pencarian di Google. Meskipun user interface-nya sangat simple dan mudah sekali digunakan, namun variasi rintangan dari game ini cukup banyak. Pemain perlu memutar otak untuk menyelesaikan tiap levelnya. Para pemain yang telah memainkan game ini banyak yang memberikan ulasan positif.
 
-## Game description
+## _Game description_
 
 Hide and Seek (Story of Dorothy)
 RPG, Adventure (Offline games)
@@ -29,7 +29,7 @@ Awal pada permainan ini, tidak dijelaskan apa yang harus dilakukan dan apa yang 
 
 Hide and seek Dorothy merupakan game yang memiliki grafik 2D. Meskipun begitu, hal tersebut tidak menghalangi player untuk bisa mendapatkan "feel" dari game tersebut. Game ini didukung dengan efek suara yang sangat menunjang. Apalagi anda yang memiliki imajinasi yang sangat kuat. Anda benar-benar bisa merasakan kalau anda adalah tokoh utama yang berada pada tempat tersebut dan berjuang untuk hidup dan mengetahui apa yang sebenarnya terjadi. Bagi anda yang takut terhadap hal-hal mistis tapi penasaran juga, disarankan bermainlah di tempat yang terang dan pada siang hari. Dan, bagi anda yang punya penyakit jantung, lebih disarankan untuk tidak main game ini. Banyak kejutan-kejutan terjadi dan membuat panik. 
 
-### Note : Anda akan diberi 5 nyawa pada awal sekali bermain. Nyawa ada akan bertambah 1 tiap 10 menit. Nyawa tidak akan bertambah melebihi 10 (kecuali anda upgrade). Bila anda menemui game over, anda dapat load lagi dari awal atau dari load dari save point file anda.
+``` Note : Anda akan diberi 5 nyawa pada awal sekali bermain. Nyawa ada akan bertambah 1 tiap 10 menit. Nyawa tidak akan bertambah melebihi 10 (kecuali anda upgrade). Bila anda menemui game over, anda dapat load lagi dari awal atau dari load dari save point file anda.```
 
 ## Game route
 
