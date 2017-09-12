@@ -7,7 +7,7 @@ Game Hide and Seek Dorothy adalah game dengan tema misteri-horor. Game tersebut 
 ## Game description
 
 Hide and Seek (Story of Dorothy)
-RPG, Adventure
+RPG, Adventure (Offline games)
 Horror
 Size download 40MB
 Free games (But you also can buy some items for upgrade the skill, this is optional)
@@ -15,7 +15,7 @@ Tabom Soft Developper (Korea)
 Rating 12+
 2D Graphics (Pixelate)
 Platform : Android (Mobile App Games)
-First release : unknown
+First release : 2014
 Device specification : There are no specification from the developer
 Sequel : Hide and Seek 2 (Story of Demian)
 
@@ -29,25 +29,16 @@ Awal pada permainan ini, tidak dijelaskan apa yang harus dilakukan dan apa yang 
 
 Hide and seek Dorothy merupakan game yang memiliki grafik 2D. Meskipun begitu, hal tersebut tidak menghalangi player untuk bisa mendapatkan "feel" dari game tersebut. Game ini didukung dengan efek suara yang sangat menunjang. Apalagi anda yang memiliki imajinasi yang sangat kuat. Anda benar-benar bisa merasakan kalau anda adalah tokoh utama yang berada pada tempat tersebut dan berjuang untuk hidup dan mengetahui apa yang sebenarnya terjadi. Bagi anda yang takut terhadap hal-hal mistis tapi penasaran juga, disarankan bermainlah di tempat yang terang dan pada siang hari. Dan, bagi anda yang punya penyakit jantung, lebih disarankan untuk tidak main game ini. Banyak kejutan-kejutan terjadi dan membuat panik. 
 
-Note : Anda akan diberi 5 nyawa pada awal sekali bermain. Nyawa ada akan bertambah 1 tiap 10 menit. Nyawa tidak akan bertambah melebihi 5. Bila anda menemui game over, anda dapat load lagi dari awal atau dari load dari save point file anda.
+### Note : Anda akan diberi 5 nyawa pada awal sekali bermain. Nyawa ada akan bertambah 1 tiap 10 menit. Nyawa tidak akan bertambah melebihi 10 (kecuali anda upgrade). Bila anda menemui game over, anda dapat load lagi dari awal atau dari load dari save point file anda.
 
 ## Game route
 
-Game ini memiliki 3 route ending : Uncomplete ending, Parent Ending, and True Ending. Pada umumnya, player akan lebih mudah menemukan Uncomplete atau Parent Ending. True Ending benar-benar sulit ditemukan dan cukup mengejutkan.
+Game ini memiliki 3 route ending : Uncomplete ending, Parent Ending, and True Ending. Pada umumnya, player akan lebih mudah menemukan Uncomplete atau Parent Ending. True Ending benar-benar sulit ditemukan dan cukup mengejutkan. Hal yang menentukan ending pada game ini adalah pilihan yang anda ambil saat di level akhir.
 
 ## Game lag dan bugs
 
-Sejauh saya bermain, saya tidak menemukan lag. Saat itu saya menggunakan perangkat dengan spesifikasi Android Kit-kat, 1GB RAM, 8 GB ROM, 1.3 GHz Quadcore Processor. Untuk bugs sendiri, hanya ada beberapa dan tidak mengganggu jalannya permainan, dan itu mungkin lebih disebabkan saat terhubung ke internet, seperti butuh waktu untuk load nyawa untuk bermain.
+Sejauh saya bermain, saya tidak menemukan lag. Saat itu saya menggunakan perangkat dengan spesifikasi Android Kit-kat, 1GB RAM, 8 GB ROM, 1.3 GHz Quadcore Processor. Untuk bugs sendiri, hanya ada beberapa dan tidak mengganggu jalannya permainan, dan itu mungkin lebih disebabkan saat terhubung ke internet, seperti butuh waktu untuk load nyawa untuk bermain. Ada beberapa bug juga seperti tidak munculnya dialog saat menginspeksi sesuatu atau ada dialog yang hurufnya terbalik semua, jadi sulit untuk dibaca. Karena game ini asalnya dari Korea, dilakukan alih bahasa untuk pemain luar Korea. Nah, di sana terdapat ada beberapa kesalahan, jadi dapat menimbulkan kesalahan pemahaman.
 
 ## Kesimpulan dan saran
 
-Game ini sukses untuk menunjukkan karakteristiknya dalam horor dan misteri. Sebab, saya yang pernah menjadi player bisa dibuat kebingungan dan beberapa kali berujung mencari walkthrough-nya di internet. Meskipun begitu, game ini juga bisa membuat pemainnya penasaran dan addict sehingga ingin menuntaskan game tersebut. Graphics lumayan menunjang dan Efek suara patut diacungi jempol. Bagi anda yang merupakan tipe pemikir dan suka horor misteri, game ini sangat saya rekomendasikan. 
-
-
-
-
-
-
-
-
-
+Game ini sukses untuk menunjukkan karakteristiknya dalam horor dan misteri. Sebab, saya yang pernah menjadi player bisa dibuat kebingungan dan beberapa kali berujung mencari walkthrough-nya di internet. Meskipun begitu, game ini juga bisa membuat pemainnya penasaran dan addict sehingga ingin menuntaskan game tersebut. Graphics lumayan menunjang dan Efek suara patut diacungi jempol. Bagi anda yang merupakan tipe pemikir dan suka horor misteri, game ini sangat saya rekomendasikan.
