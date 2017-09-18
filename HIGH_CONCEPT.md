@@ -30,7 +30,7 @@ Player dalam game ini tidak memiliki level. Untuk berpindah ke wilayah lain, dis
 - Tiap wilayah disediakan kartu dan jebakan.
 - Item untuk bertanding
 - Pengocokan dadu
-- Attack dan Defence Calculation (how to win fighting)
+- Attack dan Defend Calculation (how to win fighting)
 - other object (?)
 - Karakteristik tiap wilayah
 
