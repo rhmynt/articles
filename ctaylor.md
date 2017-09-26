@@ -40,3 +40,12 @@ Game platform ini memiliki alur cerita yang membuatnya menarik. Selain itu, dala
 
 ## General Feature
 
+# Music Scores and Sound Effect
+
+## Overview
+Tujuan ada musik pada game adalah untuk dapat menciptakan suasana yang sesuai dengan keadaan yang sesungguhnya. Terdapat beberapa soundtrack. Soundtrack sesuai dengan negara yang dikunjungi. 
+
+## Sound FX
+Terdapat sound untuk Interaksi GUI dengan user seperti pada saat menyentuh tombol Menu, pengaturan dan lain lain. Permainan ini memiliki efek khusus untuk membangun suasana yang lebih terasa oleh pemain. Apa yang terjadi pada game ini ditunjukan dengan efek suara. Misalkan pada saat sedang berlari atau terjatuh.  
+
+
