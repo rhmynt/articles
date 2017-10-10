@@ -1,11 +1,11 @@
-#Levelling
+# Levelling
 
 ## 1. Amazon River (Starting point)
 
 ### Start
 Di pinggir sungai dengan ada bangkai pesawat terbang (beserta isinya) di sekitar pemain
 
-*Time lapse* : about 2 minutes
+**Time lapse** : about 2 minutes
 
 ### Obstacle and how to face it :
 - Ular (Ananconda, rattlesnake (ular derik)) - dodge
@@ -19,20 +19,30 @@ Di pinggir sungai dengan ada bangkai pesawat terbang (beserta isinya) di sekitar
 	> Red-Bellied Piranhas
 	> Pacu (the pacu is a much larger relative of the piranha, known for its distinctive, human-like teeth)
 
-*Earn* : Fruit for stay alive
+**Earn** : Fruit for stay alive
 
-*Goals of Level* : Find rescue
+**Goals of Level** : Find rescue
  
 
 
 Grand Canyon (US)
+
 Greenland (Snow Land)
+
 Inggris
+
 Prancis
+
 Itali
+
 Turki
+
 Siria
+
 Saudi Arabia
+
 India
+
 Thailand
+
 Indonesia (Finish)
