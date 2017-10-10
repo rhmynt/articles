@@ -1,3 +1,3 @@
 # articles
 
-OPEN hide_and_seek.md
+OPEN levelling.md and story.md
