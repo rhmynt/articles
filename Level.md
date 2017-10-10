@@ -25,24 +25,24 @@ Di pinggir sungai dengan ada bangkai pesawat terbang (beserta isinya) di sekitar
  
 
 
-Grand Canyon (US)
+## 2. Grand Canyon (US)
 
-Greenland (Snow Land)
+## 3. Greenland (Snow Land)
 
-Inggris
+## 4. Inggris
 
-Prancis
+## 5. Prancis
 
-Itali
+## 6. Itali
 
-Turki
+## 7. Turki
 
-Siria
+## 8. Siria
 
-Saudi Arabia
+## 9. Saudi Arabia
 
-India
+## 10. India
 
-Thailand
+## 11. Thailand
 
-Indonesia (Finish)
+## 12. Indonesia (Finish)
