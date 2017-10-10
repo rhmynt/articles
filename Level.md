@@ -22,7 +22,8 @@ Di pinggir sungai dengan ada bangkai pesawat terbang (beserta isinya) di sekitar
 **Earn** : Fruit for stay alive
 
 **Goals of Level** : Find rescue
- 
+
+**notes** : For 1st level there's no hints for ending
 
 
 ## 2. Grand Canyon (US)
